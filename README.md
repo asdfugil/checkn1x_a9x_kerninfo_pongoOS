@@ -1,7 +1,7 @@
 # checkn1x_a8a9_14.5_pongoOS
 See release for ISO.
 
-The following is copied from odysseyn1x readme, you should use [their instructions](https://github.com/asdfugil/odysseyn1x/blob/master/README.md).
+The following is copied from odysseyn1x readme, you should use [their instructions](https://github.com/asdfugil/odysseyn1x/blob/master/README.md). (Except the ISO download link obviously)
 
 Make an iCloud/iTunes backup before using odysseyn1x, so that you can go back if something goes wrong.
 
