@@ -1,4 +1,8 @@
 # checkn1x_a8a9_14.5_pongoOS
+**UPDATE 05 October 2022:** Upstream Odysseyn1x now has the the option to apply the pongoOS workaround since version 2.16! Please use that instead.
+
+----
+
 See release for ISO.
 
 The following is copied from odysseyn1x readme, you should use [their instructions](https://github.com/asdfugil/odysseyn1x/blob/master/README.md). (Except the ISO download link obviously)
